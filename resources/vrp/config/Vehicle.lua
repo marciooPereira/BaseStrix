@@ -6453,6 +6453,14 @@ local List = {
 		["Gemstone"] = 10000,
 		["Class"] = "Importados"
 	},
+	["velar2"] = {
+		["Name"] = "Velar",
+		["Weight"] = 75,
+		["Price"] = 50,
+		["Mode"] = "Rental",
+		["Gemstone"] = 10000,
+		["Class"] = "Importados"
+	},
 	["masterssrt"] = {
 		["Name"] = "Dogde Charger Srt",
 		["Weight"] = 55,
@@ -6487,14 +6495,6 @@ local List = {
 	},
 	["kl1600"] = {
 		["Name"] = "Bmw Gs 1600",
-		["Weight"] = 25,
-		["Price"] = 50,
-		["Mode"] = "Rental",
-		["Gemstone"] = 10000,
-		["Class"] = "Importados"
-	},
-	["r1200gs"] = {
-		["Name"] = "Bmw R1200 Gs",
 		["Weight"] = 25,
 		["Price"] = 50,
 		["Mode"] = "Rental",
